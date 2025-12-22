@@ -1,0 +1,34 @@
+{
+  "companies": [
+    {
+      "id": "1",
+      "name": "Kathmandu Hair and Beauty Salon",
+      "slug": "ktm-beauty",
+      "description": "",
+      "logo": "🚀",
+      "socialMedia": [
+        {
+          "platform": "Facebook",
+          "url": "https://www.facebook.com/p/Kathmandu-beauty-and-hair-salon-100067330566809/",
+          "icon": "📘"
+        },
+        {
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/kathmandubeautyhairsalon/?hl=en",
+          "icon": "📷"
+        },
+        {
+          "platform": "Tiktok",
+          "url": "https://www.tiktok.com/@kathmanduhairandbeauty/video/7569199047827934485",
+          "icon": "💼"
+        },
+        {
+          "platform": "Review in Google",
+          "url": "https://www.google.com/search?sca_esv=ceb0330bb46d8426&sxsrf=AE3TifNf2ccSwMkrjvP448iiLm7adT_1aw:1766113070356&si=AMgyJEtREmoPL4P1I5IDCfuA8gybfVI2d5Uj7QMwYCZHKDZ-E1rB0-XmFC5HC-AB7DCGkOHiePi3F05VXZzjac5uojlfNTFEaXHdtvK0sYp5vfqMl9QVaHgZMc_zYmNRoWaoBZjRqwUFP1AMFcawb0xH54GfZOqHzA%3D%3D&q=Kathmandu+beauty+and+hair+salon+Reviews&sa=X&ved=2ahUKEwjfj8Px08iRAxUme_UHHV5VGzwQ0bkNegQIGxAE&biw=756&bih=766&dpr=2#lrd=0x6b16550755f8cd93:0xa52d00c1a4c09cab,3,,,,",
+          "icon": "▶️"
+        }
+      ]
+    }
+  ]
+}
+
