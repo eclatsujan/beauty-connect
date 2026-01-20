@@ -5,7 +5,7 @@
       "name": "Kathmandu Hair and Beauty Salon",
       "slug": "ktm-beauty",
       "description": "",
-      "logo": "🚀",
+      "logo": "https://ktmbeauty.com.au/wp-content/uploads/2025/12/kathmanu-logo.png",
       "socialMedia": [
         {
           "platform": "Facebook",
@@ -25,6 +25,59 @@
         {
           "platform": "Review in Google",
           "url": "https://www.google.com/search?sca_esv=ceb0330bb46d8426&sxsrf=AE3TifNf2ccSwMkrjvP448iiLm7adT_1aw:1766113070356&si=AMgyJEtREmoPL4P1I5IDCfuA8gybfVI2d5Uj7QMwYCZHKDZ-E1rB0-XmFC5HC-AB7DCGkOHiePi3F05VXZzjac5uojlfNTFEaXHdtvK0sYp5vfqMl9QVaHgZMc_zYmNRoWaoBZjRqwUFP1AMFcawb0xH54GfZOqHzA%3D%3D&q=Kathmandu+beauty+and+hair+salon+Reviews&sa=X&ved=2ahUKEwjfj8Px08iRAxUme_UHHV5VGzwQ0bkNegQIGxAE&biw=756&bih=766&dpr=2#lrd=0x6b16550755f8cd93:0xa52d00c1a4c09cab,3,,,,",
+          "icon": "▶️"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Brows Expert",
+      "slug": "brows-expert",
+      "description": "",
+      "logo": "https://www.browsexpert.com.au/wp-content/themes/yootheme/cache/logo-63325495.webp",
+      "socialMedia": [
+        {
+          "platform": "Facebook",
+          "url": "https://www.facebook.com/people/Glam-Nepal-Hair-and-Beauty-Salon/61579130152958/",
+          "icon": "📘"
+        },
+        {
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/glamnepalbeauty/",
+          "icon": "📷"
+        },
+        {
+          "platform": "Review in Google",
+          "url": "https://www.google.com/search?sca_esv=c03ec876592c9bde&sxsrf=ANbL-n7V3XApIBCTJNg-Zj652BNhmD_Byg:1768792659998&si=AL3DRZEsmMGCryMMFSHJ3StBhOdZ2-6yYkXd_doETEE1OR-qOYbPUL4-zLFyeoQxUh7RmnFdB0xHbwkICULET9xVx49IcYphmfuJFUzYZXP66w7eiefhO7TQIAZTHakJ88yOx7Yov7fbRjDo9z6XiIaqA6tT5sVZSV1JOaoboDMPHmzVhUhnYt0%3D&q=Glam+Nepal+Hair+and+Beauty+Salon+Reviews&sa=X&ved=2ahUKEwiawbiR0paSAxU92DgGHW_uKSQQ0bkNegQIRRAH&biw=1280&bih=1204&dpr=2&aic=0#lrd=0x6b12bd6ef0c62755:0x1d0b9a540dfb9a75,3,,,,",
+          "icon": "▶️"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Glam Nepal Hair and Beauty Salon",
+      "slug": "glam-nepal",
+      "description": "",
+      "logo": "🚀",
+      "socialMedia": [
+        {
+          "platform": "Facebook",
+          "url": "https://www.facebook.com/browsexpertau/",
+          "icon": "📘"
+        },
+        {
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/browsexpertau/?hl=en",
+          "icon": "📷"
+        },
+        {
+          "platform": "Tiktok",
+          "url": "https://www.tiktok.com/@browsexpert",
+          "icon": "💼"
+        },
+        {
+          "platform": "Review in Google",
+          "url": "https://www.google.com/search?sca_esv=c03ec876592c9bde&sxsrf=ANbL-n5XGjMORxktJWWJz3GCkEnw7-hetw:1768791085716&si=AL3DRZEsmMGCryMMFSHJ3StBhOdZ2-6yYkXd_doETEE1OR-qOXn9BZvK0vL2J8OcylrrxI1hWn_3IyKmQ2V_X0VPq8fQOcIHKgk3rqea84hf4zE6WxTDcfyyE6e6ctGyG2f4FpkEmVRO&q=Brows+Expert+Reviews&sa=X&ved=2ahUKEwijgOKizJaSAxUA-DgGHTI-D-cQ0bkNegQIIBAH&biw=1280&bih=1204&dpr=2&aic=0#lrd=0x6b12bb5cef8b1e1f:0x963f447562db4212,3,,,,",
           "icon": "▶️"
         }
       ]

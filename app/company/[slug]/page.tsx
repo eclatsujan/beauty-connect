@@ -1,9 +1,17 @@
 import { notFound } from 'next/navigation'
-import { getCompanyBySlug } from '@/lib/companies'
+import { getCompanyBySlug, getAllCompanies } from '@/lib/companies'
 import SocialMediaCard from '@/components/SocialMediaCard'
 
 interface CompanyPageProps {
   params: Promise<{ slug: string }>
+}
+
+// Generate static params for all companies
+export async function generateStaticParams() {
+  const companies = getAllCompanies()
+  return companies.map((company) => ({
+    slug: company.slug,
+  }))
 }
 
 export default async function CompanyPage({ params }: CompanyPageProps) {

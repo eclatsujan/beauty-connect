@@ -1,0 +1,13 @@
+# Cloudflare Pages ignore file
+# Exclude cache and development files
+.next/cache/
+.next/dev/
+.next/trace
+node_modules/
+.git/
+.env*
+*.log
+.DS_Store
+
+# Note: For static export, deploy the /out directory
+# Build output will be in /out after running 'next build'
